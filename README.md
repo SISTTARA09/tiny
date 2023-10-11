@@ -2,9 +2,7 @@
 the tiniest npm module
 
 # Install 
-<code>
-npm install @sisttara/tiny
-</code>
+<code>npm install @sisttara/tiny</code>
 
 # Usage
 const tiny = require("@bamblehorse/tiny");
